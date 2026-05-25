@@ -1,2 +1,1 @@
-# pyKx.ml
-Statistical Learning using pyKx
+# Statistical Learning using pyKx & Other Miscellaneous Articles
